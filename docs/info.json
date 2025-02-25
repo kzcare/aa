@@ -1,6 +1,6 @@
 {
-    "tiku_version" : 20250101,
-    "dati_tiku_version" : 20230225,
+    "tiku_version" : 20250225,
+    "dati_tiku_version" : 20230121,
     "dati_tiku_link": "https://raw.githubusercontent.com/kzcare/xxzst/refs/heads/main/dati_tiku_20230121.txt",
     "dati_tiku_link2": "https://kzcare.github.io/aa/dati_tiku_20230121.txt",
     "tiku_link": "https://hydjan.github.io/dd/学习强国题库.json",
